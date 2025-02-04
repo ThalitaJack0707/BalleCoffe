@@ -67,14 +67,14 @@ nav {
     display: flex; /* Define o elemento como um cointar flexível */
     flex-direction: row; /* Estabele a direção dos elemento filhos para uma disposição em linha */
     gap: 24px; /* Define o espaçamento entre os elementos filhos como 24 pixels */
-    color: #fff2e780; /* Define a cor do texto para um tom específico de amarelo */
+    color: #fcfcfc80; /* Define a cor do texto para um tom específico de amarelo */
     margin-top: 9px; /* Adiciona um espaçamento de margem superior de 9 pixels ao elemento */
     margin-left: 25px;
     margin-right: 25px;
 }
 
 .menu a:hover {
-    color: #FFF; /* Nova cor do texto quando o cursor passa por cima */
+    color: #e0e0e0; /* Nova cor do texto quando o cursor passa por cima */
 }
 
 .menu a:visited {
